@@ -1,0 +1,8 @@
+[
+  {
+    "_action": "AddChange",
+    "domainid": "C_WOTYPE",
+    "description": "Work Type",
+    "domaintype": "TABLE"
+  }
+]
