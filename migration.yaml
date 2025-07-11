@@ -17,7 +17,7 @@ action: "AddChange"
 artifact_folder: "C:\\Users\\lokes\\eam360_tool\\package\\2.12"
 
 ## Github Connection
-github_token: "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"
+github_token: "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"
 github_repo_owner: "SuryanshSaxena12"
 github_repo_name: "migerationtooltest"
 github_file_path: "property.yaml"
